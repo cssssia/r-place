@@ -1,0 +1,15 @@
+{
+  "contact": "https://discord.gg/cellbit",
+  "templates": [
+    {
+      "name": "Brazil",
+      "sources": [
+        ""
+      ],
+      "x": 600,
+      "y": 413
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
