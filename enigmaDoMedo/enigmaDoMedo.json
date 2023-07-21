@@ -2,12 +2,12 @@
   "contact": "https://discord.gg/cellbit",
   "templates": [
     {
-      "name": "Brazil",
+      "name": "EnigmaDoMedo",
       "sources": [
         "https://raw.githubusercontent.com/cssssia/r-place/main/enigmaDoMedo/enigmaTemplate.png"
       ],
-      "x": 600,
-      "y": 413
+      "x": 1117,
+      "y": 753
     }
   ],
   "whitelist": [],
