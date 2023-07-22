@@ -8,6 +8,14 @@
       ],
       "x": 1117,
       "y": 763
+    },
+    {
+      "name": "Brazil",
+      "sources": [
+        "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/shit.png"
+      ],
+      "x": 648,
+      "y": 783
     }
   ],
   "whitelist": [],
